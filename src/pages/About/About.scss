@@ -1,0 +1,15 @@
+.About {
+  background-color: #C4C4C4;
+  padding: 16px;
+
+  .media-wrapper {
+    margin-top: 32px;
+
+    iframe {
+      width: 100vw;
+      height: 56.25vw;
+      position: relative;
+      left: -16px;
+    }
+  }
+}
